@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather app that allows users to check the current weather conditions of any city around the world.
+This is a simple weather app that allows users to check the current weather conditions.
 
 <img align="center" src="https://github.com/YashLakhwani99/weather-app/assets/110691495/9499e2b3-a4a1-4c33-ac90-3f560343e8b4" alt="misnomerrr" height="575" width="300" />
 
