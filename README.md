@@ -1,16 +1,17 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+This is a simple weather app that allows users to check the current weather conditions of any city around the world.
 
-## Getting Started
+<img align="center" src="https://github.com/YashLakhwani99/weather-app/assets/110691495/9499e2b3-a4a1-4c33-ac90-3f560343e8b4" alt="misnomerrr" height="575" width="300" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Current Weather**: Displays the current temperature, sunrise time, sunset time, maximum temperature, and minimum temperature of the selected city.
+- **BLoC State Management**: Utilizes BLoC (Business Logic Component) pattern for state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter**: The app is built using the Flutter framework for cross-platform mobile development.
+- **Dart**: Programming language used for building the app.
+- **OpenWeatherMap API**: API used to fetch weather data.
